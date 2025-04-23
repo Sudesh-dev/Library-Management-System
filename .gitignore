@@ -1,0 +1,10 @@
+
+Your .sql file should include:
+
+CREATE DATABASE library;
+USE library;
+CREATE TABLE admin;
+CREATE TABLE books (...)
+CREATE TABLE staffs (...)
+
+INSERT INTO table_name VALUES (...);
