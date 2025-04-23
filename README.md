@@ -26,10 +26,3 @@ This application helps manage a library's books and staff efficiently, offering 
 - **NetBeans** (IDE used for development)
 
 ---
-
-## 📸 UI Overview
-
-```markdown
-![Dashboard](assets/dashboard.png)
-![Add Book](assets/add_books.png)
-![Admin Panel](assets/Edit_Admin.png)
